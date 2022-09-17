@@ -6,9 +6,9 @@ A directory for notes from classes/books/lectures
 # Projects (./projects.html)
 A directory for projects 
 
-'''python
+```python
 print('Hello, world!')
-'''
+```
 
 
 

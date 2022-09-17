@@ -1,10 +1,10 @@
 Hello, my name is **Karanvir Mann**. I am currently a student studying Applied Mathematics with an interest in Computer Science. This website serves as an archive for projects and notes. 
 
-[notes.html](#1-Notes)
-A directory for notes from classes/books/lectures
+# Notes
+[A directory for notes from classes/books/lectures](./notes.html)
 
-[projects.html](#1-Projects)
-A directory for projects 
+# Projects
+[A directory for projects](./projects.html)
 
 ```python
 print('Hello, world!')
